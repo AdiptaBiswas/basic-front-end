@@ -1,5 +1,5 @@
 ## Sample blog Home-page
-***
+
 ### Abouts:
 - Find this work here in [**Codepen.io**](https://codepen.io/adiptabiswas/pen/bGByJMQ).
 - A sample mockup blog home-page.
