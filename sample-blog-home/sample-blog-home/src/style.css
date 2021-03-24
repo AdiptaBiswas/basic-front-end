@@ -1,0 +1,59 @@
+h1 {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 34px;
+  color: white;
+  text-align: left;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  font-size: 20px;
+  color: #bdd492;
+  margin-top: -10px;
+  margin-left: 60px;
+}
+
+nav {
+  display: inline-block;
+  overflow: hidden;
+  float: right;
+  margin-top: -60px;
+  margin-right: 40px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  font-size: 18px;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+a:hover {
+  color: #bdd492;
+}
+
+header {
+  margin: 25px 50px 25px 50px;
+  height: 100px;
+}
+
+.motowrite-main {
+  margin: 25px -10px 25px -10px;
+}
+
+.motowrite-main p {
+  color: #CC5A71;
+  font-size: 72px;
+  margin: 50px 50px 50px 50px;
+  display: inline-block;
+}
+
+body {
+  background: #6441a5;
+  background: -webkit-linear-gradient(to right, #6441a5, #2a0845);
+  background: linear-gradient(to right, #6441a5, #2a0845);
+}
