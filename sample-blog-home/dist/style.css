@@ -17,7 +17,6 @@ h2 {
 }
 
 nav {
-  display: inline-block;
   overflow: hidden;
   float: right;
   margin-top: -60px;
@@ -49,11 +48,10 @@ header {
   color: #CC5A71;
   font-size: 72px;
   margin: 50px 50px 50px 50px;
-  display: inline-block;
 }
 
 body {
   background: #6441a5;
-  background: -webkit-linear-gradient(to right, #6441a5, #2a0845);
+  background: linear-gradient(to right, #6441a5, #2a0845);
   background: linear-gradient(to right, #6441a5, #2a0845);
 }
