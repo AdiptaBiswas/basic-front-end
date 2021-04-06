@@ -1,10 +1,7 @@
-## Basic Front-End stuffs
+## My first Front-End stuffs
 
 ### Abouts: 
-- This repo holds basic Front-End stuffs. _**Noob alert!!**_
-- Codes to the practice works are put in [codepen.io](https://codepen.io/your-work) or are held locally.
-- Stuffs done in HTML5, CSS 3 and Vanilla JavaScript.
-- Works done using Atom and VSCode editors.
-- This repo holds personal and practice stuffs related to Front-End. _**My first work in this domain**_.
+- _**Noob alert!!**_ _**My first works in this domain**_.
+- This repo hold site modifications, login-page re-mods, mockups and practice stuffs. 
+- Codes to the works here are put in [codepen.io](https://codepen.io/your-work) or are held locally.
 ***
-### 
