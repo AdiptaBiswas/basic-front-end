@@ -1,0 +1,182 @@
+header {
+  background: #3c5898;
+  border: solid #8b9dc3;
+}
+
+h1 {
+  text-align: right;
+  color: #8b9dc3;
+  margin-right: 150px;
+  margin-top: 20px;
+  font-family: "Poppins", sans-serif;
+  font-size: 50px;
+}
+
+a {
+  color: #fff;
+  font-family: tahoma;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+nav {
+  text-align: right;
+  margin-right: 350px;
+  word-spacing: 30px;
+  margin-top: 10px;
+  margin-top: -30px;
+  margin-bottom: 10px;
+}
+
+a:hover {
+  color: #1877f2;
+}
+
+aside {
+  border: dotted #8b9dc3;
+  width: 200px;
+  background-color: #f7f7f7;
+}
+
+p {
+  text-align: right;
+  margin-top: 5px;
+  margin-right: 5px;
+  font-family: tahoma;
+  font-size: 16px;
+}
+
+input {
+  width: 180px;
+  background-color: #8b9dc3;
+}
+
+button {
+  background-color: #1877f2;
+  font-size: 16px;
+  color: #fff;
+  padding: 2.5px;
+}
+
+button:hover {
+  background-color: #3c5898;
+  color: #fff;
+}
+
+.button1 {
+  margin-bottom: 10px;
+  margin-left: 30px;
+}
+
+.button2 {
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+
+section {
+  border: solid #8b9dc3;
+  margin-top: -160px;
+  margin-left: 210px;
+  background-color: #f7f7f7;
+}
+
+.heading {
+  font-size: 15px;
+  font-weight: medium;
+  color: #fff;
+  background-color: #3c5898;
+  font-family: monospace;
+}
+
+.heading h2 {
+  margin: 0 0 20px 10px;
+}
+
+.container h3 {
+  font-family: tahoma;
+  font-size: 28px;
+  text-align: center;
+  padding: 5px;
+  padding-bottom: 20px;
+}
+
+.container p {
+  text-align: left;
+  font-family: tahoma;
+  margin-left: 10px;
+  padding: 20px;
+  margin-top: -20px;
+}
+
+.container ul {
+  margin-top: -20px;
+  text-align: left;
+  font-family: tahoma;
+}
+
+.button1Contain {
+  margin-left: 600px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.button2Contain {
+  margin-left: 15px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.image {
+  margin-left: 800px;
+  margin-right: auto;
+  margin-top: -340px;
+}
+
+.container {
+  background: #f7f7f7;
+}
+
+img {
+  height: 300px;
+  width: 350px;
+}
+
+footer {
+  margin-top: 50px;
+  padding-bottom: 30px;
+}
+
+footer nav a {
+  color: #1877f2;
+}
+
+footer nav {
+  margin-right: 500px;
+  word-spacing: 30px;
+}
+
+footer nav a:hover {
+  color: #3b5998;
+}
+
+footer section {
+  margin-top: 20px;
+  border: none;
+  background-color: #fff;
+  margin-right: 550px;
+  margin-left: 500px;
+}
+
+footer section p {
+  margin-top: -10px;
+  text-align: center;
+}
+
+footer section p {
+  margin-left: 200px;
+}
+
+body {
+  margin: 10px;
+  border: solid #8b9dc3 2.5px;
+}
