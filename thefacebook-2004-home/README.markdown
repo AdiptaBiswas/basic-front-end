@@ -1,7 +1,7 @@
 ## Thefacebook 2004 homepage mod
 
 ### Abouts:
-- Find this work here in [**Codepen.io**](https://codepen.io/adiptabiswas/pen/jOyzYQZ).
+- Woke done in **Codepen.io**.
 - Facebook ver. 2004 homepage mod.
 - Usage of Vanilla HTML 5 and CSS 3.
 ***
